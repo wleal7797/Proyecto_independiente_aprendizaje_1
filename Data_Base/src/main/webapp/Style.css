@@ -1,0 +1,41 @@
+@charset "ISO-8859-1";
+h1 {
+	color: #CCCCCC;
+	text-align: center;
+	font-family: "Eras Bold ITC";
+}
+
+b {
+	color: #CCCCCC;
+	text-align: left;
+    font-family: "Eras Bold ITC";
+    font-size: 12px;
+}
+
+input {
+	background-color: #404040;
+	color: #FFFFFF;
+}
+
+form {
+	text-align: center;
+}
+
+option {
+	color: #767575;
+}
+
+table {
+	table-layout: fixed;
+	width: 80%;
+	border: 1px solid white;
+	border-color: white;
+	background-color: #999999;
+	font-size: 12px;
+	margin: 0 auto;
+}
+
+th,
+td {
+	padding: 2px;
+}
